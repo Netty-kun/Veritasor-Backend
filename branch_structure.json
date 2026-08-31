@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/adaptive-batch-config-coverage-1007",
+    "main",
+    "origin",
+    "test/integration-repository-930",
+    "test/monthlyrevenue-anomaly-coverage"
+  ],
+  "parent": {
+    "fix/adaptive-batch-config-coverage-1007": "main",
+    "main": null,
+    "origin": "main",
+    "test/integration-repository-930": "main",
+    "test/monthlyrevenue-anomaly-coverage": "main"
+  },
+  "order": [
+    "main",
+    "fix/adaptive-batch-config-coverage-1007",
+    "origin",
+    "test/integration-repository-930",
+    "test/monthlyrevenue-anomaly-coverage"
+  ]
+}
